@@ -119,10 +119,3 @@ CREATE TABLE comunicacao (
 );
 
 
--- Ideia de comunicados (exceto em caso de emergência) serem semanais, então não passam mais de uma semana no site.
--- Título - 30
--- Descrição - 50
--- Destinatário - 50
--- Datas - 7 dias por comunicado (exceto em caso de emergência)
--- Texto - 500
--- Autor - 30
